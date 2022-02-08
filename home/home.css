@@ -1,0 +1,75 @@
+#mustache
+{ height: 80px;
+
+
+}
+header
+{
+    display:flex; 
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.b-pics{
+    height: 300px;
+}
+#top{
+    background-image: url(../images/fred-moon-vSI2KnI4Abc-unsplash.jpg);
+    background-size: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 50%;
+    
+}
+
+#text-container{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+#text-container h1{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#text-container h3{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    display: flex;
+    width: 400px;
+    
+
+}
+
+#bottom{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#footer{
+padding:20px 0;
+    text-align:center;
+		
+}
+.twitter{
+    height: 50px;
+    width: 50px;
+}
+.facebook{
+    height: 60px;
+    width: 60px;
+}
+.google-plus{
+    height: 50px;
+    width: 50px;
+}
+.pintrest{
+    height: 50px;
+    width: 50px;
+}

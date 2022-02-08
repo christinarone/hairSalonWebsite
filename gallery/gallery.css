@@ -1,0 +1,48 @@
+#mustache
+{ height: 80px;
+
+}
+header
+{
+    display:flex; 
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+section img{
+    height: 300px;
+    width: 300px;
+    margin: 5px;
+    border: 5px black solid
+
+}
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+h1{
+    background-color: black;
+    color: white;
+}
+#footer{
+    padding:20px 0;
+    text-align:center;
+}
+.twitter{
+height: 50px;
+width: 50px;}
+
+.facebook{
+    height: 60px;
+    width: 60px;
+}
+.google-plus{
+    height: 50px;
+    width: 50px;
+}
+.pintrest{
+    height: 50px;
+    width: 50px;
+}

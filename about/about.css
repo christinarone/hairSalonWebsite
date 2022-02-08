@@ -1,0 +1,61 @@
+#mustache
+{ height: 80px;
+
+
+}
+header
+{
+    display:flex; 
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#top{
+    background-image: url(../images/logan-weaver-p0B7ueoZz8E-unsplash.jpg);
+    background-size: 5px;
+    background-position: center;
+    height: 50px;
+    width: 5px;
+    flex-direction: row;
+    
+}
+.about-main-pic{
+    width: 475px;
+    height: 350px;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h1{
+    background-color: black;
+    color: white;
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#footer{
+    padding:20px 0;
+    text-align:center;         
+}
+.twitter{
+height: 50px;
+width: 50px;
+}
+.facebook{
+    height: 60px;
+    width: 60px;
+}
+.google-plus{
+    height: 50px;
+    width: 50px;
+}
+.pintrest{
+    height: 50px;
+    width: 50px;
+}
